@@ -4,7 +4,7 @@
 ## 👥 Integrantes  
 | Nombre                      | Github                                   |
 |-----------------------------|------------------------------------------|
-| Sebastián Brizuela          | -                                        |
+| Sebastián Brizuela          | [SebaB29](https://github.com/SebaB29)    |
 | Lucia Agha Zadeh Dehdeh     | [Lucia-azd](https://github.com/Lucia-azd)|
 | Juan Sebastián Del Río      | [S2JuanS2](https://github.com/S2JuanS2)  |
 
